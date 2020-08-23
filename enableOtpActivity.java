@@ -1,4 +1,4 @@
-package com.krikax.prod;
+package com.example.otpverify;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
